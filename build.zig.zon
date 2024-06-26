@@ -1,0 +1,17 @@
+.{
+    .name = "libtraceevent",
+    .version = "1.8.3",
+
+    .dependencies = .{
+        .upstream = .{
+            .url = "https://github.com/Benetti-Engineering-sas/libtraceevent/archive/refs/tags/libtraceevent-1.8.3.tar.gz",
+            .hash = "12209b21f88157160ed863f60468bd9014834802e2a862f562b6c3f6410034e5466a",
+        },
+    },
+
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
