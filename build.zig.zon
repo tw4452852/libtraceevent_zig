@@ -4,8 +4,8 @@
 
     .dependencies = .{
         .upstream = .{
-            .url = "https://github.com/Benetti-Engineering-sas/libtraceevent/archive/refs/tags/libtraceevent-1.8.3.tar.gz",
-            .hash = "12209b21f88157160ed863f60468bd9014834802e2a862f562b6c3f6410034e5466a",
+            .url = "https://git.kernel.org/pub/scm/libs/libtrace/libtraceevent.git/snapshot/libtraceevent-1.8.4.tar.gz",
+            .hash = "12201cdea48ee7da95482d14a0f233451f1923ced6e84d12f13617383ac5b6764630",
         },
     },
 
