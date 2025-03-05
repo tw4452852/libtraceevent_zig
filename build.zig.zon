@@ -1,5 +1,5 @@
 .{
-    .name = "libtraceevent",
+    .name = .libtraceevent,
     .version = "1.8.4",
 
     .dependencies = .{
@@ -14,4 +14,5 @@
         "build.zig.zon",
         "src",
     },
+    .fingerprint = 0x42307f889ce29a0,
 }
