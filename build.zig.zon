@@ -1,11 +1,11 @@
 .{
     .name = .libtraceevent,
-    .version = "1.8.4",
+    .version = "1.8.4-1",
 
     .dependencies = .{
         .upstream = .{
             .url = "https://git.kernel.org/pub/scm/libs/libtrace/libtraceevent.git/snapshot/libtraceevent-1.8.4.tar.gz",
-            .hash = "12201cdea48ee7da95482d14a0f233451f1923ced6e84d12f13617383ac5b6764630",
+            .hash = "N-V-__8AAP1rCgAc3qSO59qVSC0UoPIzRR8ZI87W6E0S8TYX",
         },
     },
 
